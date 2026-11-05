@@ -28,8 +28,8 @@
     "description": "開発したアプリ一覧を参照するWebアプリケーション",
     "longDescription": "開発したアプリ一覧を参照可能。概要、使用した技術スペック、（サイトの場合）URL、GithubURLを掲載する。",
     "architecture": ["Vite", "React", "Tailwind CSS", "Vercel"],
-    "url": "",
-    "githubUrl": "",
+    "url": "https://app-board-lilac.vercel.app/",
+    "githubUrl": "https://github.com/nakamurajinno/AppBoard",
     "updatedAt": "2026-11-05"
   }
 ]
