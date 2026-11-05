@@ -1,0 +1,35 @@
+[
+  {
+    "id": "dev-project-board-app",
+    "title": "個人開発プロジェクト管理ボード",
+    "category": "Webアプリ",
+    "description": "個人開発におけるプロジェクト管理を行うWebアプリケーション",
+    "longDescription": "プロジェクトの一覧表示・登録・詳細情報の登録/編集・活動ログの登録/編集が可能なWebアプリケーションです。",
+    "architecture": ["Next.js", "TypeScript", "Tailwind CSS", "Supabase", "Vercel"],
+    "url": "https://dev-project-board-app.vercel.app/",
+    "githubUrl": "https://github.com/nakamurajinno/DevProjectBoardApp",
+    "updatedAt": "2026-11-04"
+  },
+  {
+    "id": "line-ai",
+    "title": "LINE AI開発",
+    "category": "その他",
+    "description": "LINE画面でAPIを使って生成AIを利用可能とする機能",
+    "longDescription": "LINE画面で生成AIとの対話を可能とするAI Assistant。GASを用いてGemini APIと連携して応答する。",
+    "architecture": ["GAS", "Gemini API(有償版)", "LINE Messaging API"],
+    "url": "",
+    "githubUrl": "",
+    "updatedAt": "2026-11-05"
+  },
+  {
+    "id": "app-board",
+    "title": "アプリダッシュボード",
+    "category": "Webアプリ",
+    "description": "開発したアプリ一覧を参照するWebアプリケーション",
+    "longDescription": "開発したアプリ一覧を参照可能。概要、使用した技術スペック、（サイトの場合）URL、GithubURLを掲載する。",
+    "architecture": ["Vite", "React", "Tailwind CSS", "Vercel"],
+    "url": "",
+    "githubUrl": "",
+    "updatedAt": "2026-11-05"
+  }
+]
